@@ -1,7 +1,7 @@
 title: My Awesome Blog
 description: A blog about web development, design, and technology
 url: "https://yourdomain.com"
-baseurl: "/Jekyll-blog-testing"
+baseurl: "/jekyll-blog"
 
 # Build settings
 markdown: kramdown
