@@ -1,0 +1,17 @@
+title: My Awesome Blog
+description: A blog about web development, design, and technology
+url: "https://yourdomain.com"
+baseurl: ""
+
+# Build settings
+markdown: kramdown
+permalink: /blog/:year/:month/:day/:title/
+
+# Navigation
+navigation:
+  - title: Home
+    url: /
+  - title: Blog
+    url: /blog/
+  - title: About
+    url: /about/
